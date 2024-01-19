@@ -1,0 +1,4 @@
+[Rule]
+DOMAIN,open-ai-chat-omega.vercel.app,OpenAI
+DOMAIN-KEYWORD,open-ai-chat-omega,OpenAI
+
